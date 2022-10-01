@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.center{
+  text-align: center;
+  position: relative;
+  font-size: 2rem;
+  display: block;
+}
+
+.btn{
+  background-color: white;
+}
+
+.btn-primary{
+  border-radius: 9px;
+}
